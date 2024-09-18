@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": [
+			"${workspaceFolder}\\project\\nrf_52_server"
+		],
+		"files.associations": {
+			"main.h": "c",
+			"bt-periph.h": "c",
+			"gatt.h": "c",
+			"nrfx_rtc.h": "c"
+		}
+	}
+}

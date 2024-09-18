@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "kernel.h": "c",
+        "bt-periph.h": "c",
+        "types.h": "c",
+        "bluetooth.h": "c",
+        "nrf_rtc_timer.h": "c"
+    },
+    "C_Cpp.configurationWarnings": "disabled"
+}
